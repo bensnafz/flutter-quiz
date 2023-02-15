@@ -1,0 +1,490 @@
+[
+    {
+        "title": "J.A.R.V.I.S. คืออะไร ? ",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "AI ของ โทนี่ สตาร์ก"
+            },
+            {
+                "id": 2,
+                "title": "พ่อบ้านของโทนี่ สตาร์ก"
+            },
+            {
+                "id": 3,
+                "title": "อาวุธของโทนี่ สตาร์ก"
+            },
+            {
+                "id": 4,
+                "title": "พ่อบ้านของนิค ฟิวรี่"
+            }
+        ],
+        "answerID": 1
+    },
+    {
+        "title": "ข้อใด\"ไม่ใช่\"ชื่อของ Infinity Stone ",
+        "image": "2.jpg",
+        "choice": [
+            {
+                "id": 1,
+                "title": "Mind Stone"
+            },
+            {
+                "id": 2,
+                "title": "Space Stone"
+            },
+            {
+                "id": 3,
+                "title": "Diviner"
+            },
+            {
+                "id": 4,
+                "title": "AETHER"
+            },
+            {
+                "id": 5,
+                "title": "Orb"
+            }
+        ],
+        "answerID": 3
+    },
+    {
+        "title": "ธอร์ มี''ชื่อ''ตอนเขาถูกโอดินขับไล่ลงมายังโลกว่าอะไร",
+        "image": "3.jpg",
+        "choice": [
+            {
+                "id": 1,
+                "title": "Mr. Rionaldo Blake"
+            },
+            {
+                "id": 2,
+                "title": "Dr. Odinson J. Blake"
+            },
+            {
+                "id": 3,
+                "title": "Dr. Donald J. Blake"
+            },
+            {
+                "id": 4,
+                "title": "Dr. Blake Thor Odinson"
+            }
+        ],
+        "answerID": 3
+    },
+    {
+        "title": "พลังงานที่ใช้ในชุดของ Ironman (แสงที่หน้าอก) ถูกเรียกว่าอะไร?",
+        "image": "4.jpg",
+        "choice": [
+            {
+                "id": 1,
+                "title": "Arc Reactor"
+            },
+            {
+                "id": 2,
+                "title": "Nuclear Energy "
+            },
+            {
+                "id": 3,
+                "title": "Iron Energy"
+            },
+            {
+                "id": 4,
+                "title": "Nuclear Power"
+            }
+        ],
+        "answerID": 1
+    },
+    {
+        "title": "พ่อของโลกิ เป็นพวกอาณาจักรใด",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "ฮาลา"
+            },
+            {
+                "id": 2,
+                "title": "แอสการ์ด"
+            },
+            {
+                "id": 3,
+                "title": "มิดการ์ด"
+            },
+            {
+                "id": 4,
+                "title": "โยทันไฮม์"
+            }
+        ],
+        "answerID": 4
+    },
+    {
+        "title": "กองทัพที่บุกนิวยอร์ค ใน ดิ อเวนเจอร์ส ภาคแรก คือพวกใด",
+        "image": "5.jpg",
+        "choice": [
+            {
+                "id": 1,
+                "title": "ชาวชิกทอรี่ "
+            },
+            {
+                "id": 2,
+                "title": "ชาวดาร์กเอล์ฟ"
+            },
+            {
+                "id": 3,
+                "title": "ชาวครี"
+            },
+            {
+                "id": 4,
+                "title": "ชาวโยทัน"
+            }
+        ],
+        "answerID": 1
+    },
+    {
+        "title": "วินเทอร์ โซลเยอร์ มีชื่อจริงว่าอะไร",
+        "image": "7.jpg",
+        "choice": [
+            {
+                "id": 1,
+                "title": "เพกกี้ บาร์นส"
+            },
+            {
+                "id": 2,
+                "title": "บัคกี้ อีแวนส์"
+            },
+            {
+                "id": 3,
+                "title": "สตีฟ บัคกี้"
+            },
+            {
+                "id": 4,
+                "title": "เจมส์ บูชาแนน"
+            }
+        ],
+        "answerID": 4
+    },
+    {
+        "title": "เทสเซอร์แรตส์ แต่ก่อนอยู่กับชาวอาณาจักรใดมาก่อน",
+        "image": "8.jpg",
+        "choice": [
+            {
+                "id": 1,
+                "title": "มิดการ์ด"
+            },
+            {
+                "id": 2,
+                "title": "นิดาเวลเลียร์"
+            },
+            {
+                "id": 3,
+                "title": "วาเนไฮม"
+            },
+            {
+                "id": 4,
+                "title": "โยทันไฮม์"
+            }
+        ],
+        "answerID": 4
+    },
+    {
+        "title": "ในรูปคือ Ironman มาสก์ใด [อยู่ในภาค2]",
+        "image": "9.jpg",
+        "choice": [
+            {
+                "id": 1,
+                "title": "Mask IV"
+            },
+            {
+                "id": 2,
+                "title": "Mask III"
+            },
+            {
+                "id": 3,
+                "title": "Mask II"
+            },
+            {
+                "id": 4,
+                "title": "Mask VI"
+            },
+            {
+                "id": 5,
+                "title": "Mask 52"
+            }
+        ],
+        "answerID": 4
+    },
+    {
+        "title": "แบล็ควิโดว์ (เจ้าหน้าที่โรมานอฟ) ปรากฏตัวครั้งแรกในเรื่องใด?",
+        "image": "10.jpg",
+        "choice": [
+            {
+                "id": 1,
+                "title": "Marvel : Agent of S.H.I.E.L.D."
+            },
+            {
+                "id": 2,
+                "title": "The Avengers "
+            },
+            {
+                "id": 3,
+                "title": "Captain America The First Avengers"
+            },
+            {
+                "id": 4,
+                "title": "Ironman 2"
+            },
+            {
+                "id": 5,
+                "title": "The Incredible Hulk"
+            }
+        ],
+        "answerID": 4
+    },
+    {
+        "title": "Marvel เปิดศักราชของภาพยนตร์ในเครือ ใหม่ด้วยชื่อโปรเจค(ชื่อจักรวาล)ว่าอะไร",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "Marvel Eart-19999"
+            },
+            {
+                "id": 2,
+                "title": "Marvel Phase I"
+            },
+            {
+                "id": 3,
+                "title": "Marvel Cinema Universe"
+            },
+            {
+                "id": 4,
+                "title": "Marvel Eart-616"
+            },
+            {
+                "id": 5,
+                "title": "Marvel Studio"
+            }
+        ],
+        "answerID": 3
+    },
+    {
+        "title": "เรื่องแรกที่ได้รับการสร้างในจักรวาลใหม่นี้คือภาพยนตร์ของฮีโร่คนใด",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "Thor"
+            },
+            {
+                "id": 2,
+                "title": "Hulk"
+            },
+            {
+                "id": 3,
+                "title": "Captain America"
+            },
+            {
+                "id": 4,
+                "title": "Iron Man"
+            },
+            {
+                "id": 5,
+                "title": "Nick Fury"
+            }
+        ],
+        "answerID": 4
+    },
+    {
+        "title": "เจ้าหน้าที่จาก S.H.I.E.L.D ปรากฏตัวครั้งแรก(ใน MCU) ที่ใด",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "งานเลี้ยงเพื่อผู้ประสบภัยของ Stark Industry."
+            },
+            {
+                "id": 2,
+                "title": "งานแถลงข่าวการกลับมาของ Tony Stark"
+            },
+            {
+                "id": 3,
+                "title": "ทะเลทรายตอนปะทะกับผู้ก่อการร้าย"
+            },
+            {
+                "id": 4,
+                "title": "งานแถลงข่าวเกี่ยวกับชายในชุดเกราะ"
+            },
+            {
+                "id": 5,
+                "title": "โรงงาน Stark Industry."
+            }
+        ],
+        "answerID": 2
+    },
+    {
+        "title": "ข้อใด คือ ภาพยนตร์เรื่องที่ 2 ใน Phase I",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "Iron Man 3"
+            },
+            {
+                "id": 2,
+                "title": "The Incredible Hulk"
+            },
+            {
+                "id": 3,
+                "title": "Iron Man 2"
+            },
+            {
+                "id": 4,
+                "title": "Thor"
+            }
+        ],
+        "answerID": 2
+    },
+    {
+        "title": "Tony Stark ใช้ชุดเกราะใดในการปะทะกับ Ivan Vanko",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "MK V"
+            },
+            {
+                "id": 2,
+                "title": "Mk 42"
+            },
+            {
+                "id": 3,
+                "title": "The Bag"
+            },
+            {
+                "id": 4,
+                "title": "MK XXXI"
+            }
+        ],
+        "answerID": 1
+    },
+    {
+        "title": "ศัตรูที่กลายร่างเป็นอสูรของ Hulk ใน Incredible Hulk ชื่อว่าอะไร",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "Dr. Leonard Samson"
+            },
+            {
+                "id": 2,
+                "title": "Samuel Sterns"
+            },
+            {
+                "id": 3,
+                "title": "Lou Ferrigno"
+            },
+            {
+                "id": 4,
+                "title": "Emil Blonsky"
+            }
+        ],
+        "answerID": 4
+    },
+    {
+        "title": "หน่วยรบที่ร่วมรบกับ Steve Rogers สมัยสงครามโลกนั้น คือหน่วยใด",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "S.T.R.I.K.E"
+            },
+            {
+                "id": 2,
+                "title": "Hydra"
+            },
+            {
+                "id": 3,
+                "title": "Howling Commando"
+            },
+            {
+                "id": 4,
+                "title": "S.H.I.E.L.D"
+            }
+        ],
+        "answerID": 3
+    },
+    {
+        "title": "ใครเป็นคนปรับปรุงเครื่องแบบที่ใช้ในการรบให้กับ Captain America",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "Maria Hill"
+            },
+            {
+                "id": 2,
+                "title": "Natasha Romanova"
+            },
+            {
+                "id": 3,
+                "title": "Clint Batan"
+            },
+            {
+                "id": 4,
+                "title": "Phil Coulson"
+            },
+            {
+                "id": 4,
+                "title": "Nicolas J.Fury"
+            }
+        ],
+        "answerID": 4
+    },
+    {
+        "title": "ชุดเกราะที่ได้รับการทำสีใหม่จาก War Machine Mk II มีชื่อเรียกว่าอะไร",
+        "image": "12.jpg",
+        "choice": [
+            {
+                "id": 1,
+                "title": "Iron Head"
+            },
+            {
+                "id": 2,
+                "title": "Iron Monger"
+            },
+            {
+                "id": 3,
+                "title": "Iron Buster"
+            },
+            {
+                "id": 4,
+                "title": "Iron Patriot"
+            }
+        ],
+        "answerID": 4
+    },
+    {
+        "title": "Steve Rogers หรือ Captain America มีบ้านเกิดอยู่ที่เมืองใด",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "Los Anglelis"
+            },
+            {
+                "id": 2,
+                "title": "Wallshingtal DC"
+            },
+            {
+                "id": 3,
+                "title": "Newyork"
+            },
+            {
+                "id": 4,
+                "title": "Bruklin"
+            }
+        ],
+        "answerID": 4
+    }
+]

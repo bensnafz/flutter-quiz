@@ -1,0 +1,470 @@
+[
+    {
+        "title": "ค้อน Mjolnir ของธอร์สร้างจากแกนกลางของอะไรที่ตายแล้ว?",
+        "image": "13.jpeg",
+        "choice": [
+            {
+                "id": 1,
+                "title": "ดวงดาว"
+            },
+            {
+                "id": 2,
+                "title": "ดาวหาง"
+            },
+            {
+                "id": 3,
+                "title": "ดาวเคราห์"
+            },
+            {
+                "id": 4,
+                "title": "ดาวเคราห์น้อย"
+            }
+        ],
+        "answerID": 1
+    },
+    {
+        "title": "ชื่อของวายร้ายใน Marvel Studios’ Ant-Man คืออะไร?",
+        "image": "14.jpeg",
+        "choice": [
+            {
+                "id": 1,
+                "title": "เดอะ วอสพ์"
+            },
+            {
+                "id": 2,
+                "title": "ฮอร์เน็ต"
+            },
+            {
+                "id": 3,
+                "title": "เยลโล่แจ็คเก็ต"
+            },
+            {
+                "id": 4,
+                "title": "โกสต์"
+            }
+        ],
+        "answerID": 3
+    },
+    {
+        "title": "สนธิสัญญาใดที่ถูกใช้เพื่อกำหนดขอบเขตและควบคุมเหล่าฮีโร่?",
+        "image": "15.jpeg",
+        "choice": [
+            {
+                "id": 1,
+                "title": "สนธิสัญญาสตาร์ค"
+            },
+            {
+                "id": 2,
+                "title": "สนธิสัญญาปารีส"
+            },
+            {
+                "id": 3,
+                "title": "สนธิสัญญาชิลด์"
+            },
+            {
+                "id": 4,
+                "title": "สนธิสัญญาโซโคเวีย"
+            }
+        ],
+        "answerID": 4
+    },
+    {
+        "title": "แท่งแบตเตอรี่ที่ทีมการ์เดียนส์ต้องปกป้องในตอนต้นเรื่องของ Marvel Studios’ Guardians of the Galaxy Vol. 2 มีชื่อว่าอะไร??",
+        "image": "16.jpeg",
+        "choice": [
+            {
+                "id": 1,
+                "title": "ฮาร์บิวลารีย์"
+            },
+            {
+                "id": 2,
+                "title": "อนูลักซ์"
+            },
+            {
+                "id": 3,
+                "title": "ไวเบรเนียม"
+            },
+            {
+                "id": 4,
+                "title": "กาแลคซี"
+            }
+        ],
+        "answerID": 2
+    },
+    {
+        "title": "Flerkens เป็นเผ่าพันธุ์ของเอเลี่ยนที่อันตรายอย่างยิ่งที่มีลักษณะคล้ายกับอะไร",
+        "image": "17.jpeg",
+        "choice": [
+            {
+                "id": 1,
+                "title": "อาหารไทย"
+            },
+            {
+                "id": 2,
+                "title": "เนอร์วานา"
+            },
+            {
+                "id": 3,
+                "title": "สตาร์ วอ"
+            },
+            {
+                "id": 4,
+                "title": "ไอศกรีมโยเกิร์ต"
+            }
+        ],
+        "answerID": 4
+    },
+    {
+        "title": "ในฉากท้ายเครดิตของ Marvel Studios’ The Avengers ร้านอาหารอะไรที่เหล่าฮีโร่ไปนั่งกินกัน?",
+        "image": "18.jpg",
+        "choice": [
+            {
+                "id": 1,
+                "title": "พิซซ่า"
+            },
+            {
+                "id": 2,
+                "title": "ซูชิ"
+            },
+            {
+                "id": 3,
+                "title": "ชวาร์มา"
+            },
+            {
+                "id": 4,
+                "title": "ไก่ทอด"
+            }
+        ],
+        "answerID": 3
+    },
+    {
+        "title": "ชื่อต่อไปนี้ คือ ชื่อที่ร็อคเก็ตถูกเรียก ยกเว้นชื่อใด?",
+        "image": "19.jpeg",
+        "choice": [
+            {
+                "id": 1,
+                "title": "เจ้าหนวด"
+            },
+            {
+                "id": 2,
+                "title": "ลิงหน้าสามเหลี่ยม"
+            },
+            {
+                "id": 3,
+                "title": "กระต่ายน้อย"
+            },
+            {
+                "id": 4,
+                "title": "แพ้นด้าเน่า"
+            }
+        ],
+        "answerID": 1
+    },
+    {
+        "title": "รหัสไวไฟที่คาร์ล มอร์โด ให้กับด็อกเตอร์ สเตรนจ์ คืออะไร?",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "Dormammu"
+            },
+            {
+                "id": 2,
+                "title": "Shamballa"
+            },
+            {
+                "id": 3,
+                "title": "Kamar-Taj"
+            },
+            {
+                "id": 4,
+                "title": "Agamotto"
+            }
+        ],
+        "answerID": 2
+    },
+    {
+        "title": "ในเรื่อง Marvel Studios’ Thor: Ragnarok ธอร์ได้มาพบกับฮัลค์อีกครั้งบนดาวดวงใด?",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "Xandar"
+            },
+            {
+                "id": 2,
+                "title": "Asgard"
+            },
+            {
+                "id": 3,
+                "title": "Sakaar"
+            },
+            {
+                "id": 4,
+                "title": "Berhert"
+            }
+        ],
+        "answerID": 3
+    },
+    {
+        "title": "ตัวอักษร E ใน S.H.I.E.L.D. มาจากคำว่าอะไร?",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "Enforcement"
+            },
+            {
+                "id": 2,
+                "title": "Extermination"
+            },
+            {
+                "id": 3,
+                "title": "Extraterrestrial"
+            },
+            {
+                "id": 4,
+                "title": "Expansion"
+            },
+            {
+                "id": 5,
+                "title": "นาตาลีเดวิด"
+            }
+        ],
+        "answerID": 1
+    },
+    {
+        "title": "ธานอสเจอโซล สโตน ที่ใด?",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "ดาว Vormir"
+            },
+            {
+                "id": 2,
+                "title": "โลก"
+            },
+            {
+                "id": 3,
+                "title": "ดาว Knowhere"
+            },
+            {
+                "id": 4,
+                "title": "ด่าว Nodavellir"
+            }
+        ],
+        "answerID": 1
+    },
+    {
+        "title": "ใครไม่ได้อยู่ในกลุ่ม Black Order ในเรื่อง Marvel Studios’ Avengers: Infinity War?",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "Proxima Midnight"
+            },
+            {
+                "id": 2,
+                "title": "Ebony Maw"
+            },
+            {
+                "id": 3,
+                "title": "Cull Obsidian"
+            },
+            {
+                "id": 4,
+                "title": "Ulysses Klaue"
+            }
+        ],
+        "answerID": 4
+    },
+    {
+        "title": "อาวุธใหม่ของธอร์ ในเรื่อง Marvel Studios’ Avengers: Infinity War มีชื่อว่าอะไร และถูกสร้างจากที่ใด ?",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "Mjolnir, Vormir"
+            },
+            {
+                "id": 2,
+                "title": "Stormbreaker, Nidavelljr"
+            },
+            {
+                "id": 3,
+                "title": "Stormbringer, Knowhere"
+            },
+            {
+                "id": 4,
+                "title": "Tesseract, Vormir"
+            }
+        ],
+        "answerID": 2
+    },
+    {
+        "title": "เราเห็นโล่ของกัปตันอเมริกาครั้งสุดท้ายในเรื่องใด ?",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "Marvel Studios' Avengers: Infinity War"
+            },
+            {
+                "id": 2,
+                "title": "Marvel Studios' Captain America: The Winter Solider"
+            },
+            {
+                "id": 3,
+                "title": "Marvel Studios' Captain America: Civil War"
+            },
+            {
+                "id": 4,
+                "title": "Marvel Studios' Avengers: Age Of Ultron"
+            },
+            {
+                "id": 5,
+                "title": "Marvel Studios' Avengers: End Game"
+            }
+        ],
+        "answerID": 5
+    },
+    {
+        "title": "กองทัพนักรบหญิงที่คอยปกป้องกษัตริย์แห่งวากานดา มีชื่อเรียกว่าอะไร?",
+        "image": "20.jpeg",
+        "choice": [
+            {
+                "id": 1,
+                "title": "Dora Milaje"
+            },
+            {
+                "id": 2,
+                "title": "Jabari"
+            },
+            {
+                "id": 3,
+                "title": "Kimoyo"
+            },
+            {
+                "id": 4,
+                "title": "Hatut Zeraze"
+            }
+        ],
+        "answerID": 1
+    },
+    {
+        "title": "ภาพยนตร์ของจักรวาลมาร์เวล มีทั้งหมดกี่เรื่อง รวม Marvel Studios’ Avengers: Endgame?",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "22"
+            },
+            {
+                "id": 2,
+                "title": "18"
+            },
+            {
+                "id": 3,
+                "title": "27"
+            },
+            {
+                "id": 4,
+                "title": "36"
+            }
+        ],
+        "answerID": 1
+    },
+    {
+        "title": "ปีเตอร์ปาร์กเกอร์ สถานที่สำคัญอะไรช่วยเพื่อนร่วมชั้นของเขาจากใน Spider-Man: Home Coming?",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "อนุสาวรีย์วอชิงตัน"
+            },
+            {
+                "id": 2,
+                "title": "อนุสาวรีย์เทพีเสรีภาพ"
+            },
+            {
+                "id": 3,
+                "title": "Mount Rushmore"
+            },
+            {
+                "id": 4,
+                "title": "สะพาน Golden Gate"
+            }
+        ],
+        "answerID": 1
+    },
+    {
+        "title": "Baby Groot เต้นเพลงไหนในตอนท้ายของ Guardian of the Galaxy Vol.1?",
+        "image": "21.gif",
+        "choice": [
+            {
+                "id": 1,
+                "title": "CHERRY BOMB – Finn Askew"
+            },
+            {
+                "id": 2,
+                "title": "Marvin Gaye & Tammi Terrell - Ain't No Mountain High Enough"
+            },
+            {
+                "id": 3,
+                "title": "I Want You Back - The Jackson 5"
+            },
+            {
+                "id": 4,
+                "title": "Blue Swede - Hooked On A Feeling"
+            }
+        ],
+        "answerID": 3
+    },
+    {
+        "title": "Stephen Strange เป็นแพทย์ประเภทใด",
+        "image": "",
+        "choice": [
+            {
+                "id": 1,
+                "title": "ศัลยแพทย์ประสาท"
+            },
+            {
+                "id": 2,
+                "title": "ศัลยแพทย์หัวใจและทรวงอก"
+            },
+            {
+                "id": 3,
+                "title": "ศัลยแพทย์บาดเจ็บ"
+            },
+            {
+                "id": 4,
+                "title": "ศัลยแพทย์พลาสติก"
+            }
+        ],
+        "answerID": 1
+    },
+    {
+        "title": "ใครฆ่าพ่อแม่ของ Tony Stark",
+        "image": "22.gif",
+        "choice": [
+            {
+                "id": 1,
+                "title": "winter soldier"
+            },
+            {
+                "id": 2,
+                "title": "Captain America"
+            },
+            {
+                "id": 3,
+                "title": "Arnim Zola "
+            },
+            {
+                "id": 4,
+                "title": "Sharon Carter"
+            }
+        ],
+        "answerID": 1
+    }
+]
